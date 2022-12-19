@@ -9,6 +9,8 @@ I've been learning to code focusing on the Frontend and design aspect of web app
 * 🌍  I'm based in Portugal
 * 🚀  I'm currently working on [Novozymes](http://www.novozymes.com/en)
 * ⚡  Gaming
+* 📺 Movies, Series & Docs
+* 💻 Tech
 
 ### Skills
 
