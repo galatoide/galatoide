@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Portugal
-* 🚀  I'm currently working on [Novozymes](http://www.novozymes.com/en)
+* 🚀  I'm currently working on Blip.pt
 * ⚡  Gaming
 * 📺 Movies, Series & Docs
 * 💻 Tech
