@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="wave" /> I'm Wilson</h1>
+<h1 align="center">Hi there! I'm Wilson</h1>
 
 ###
 
@@ -46,15 +46,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galatoide&theme=nord&custom_title=Contributions&radius=10" height="150" alt="activity-graph graph"  />
 </div>
 
