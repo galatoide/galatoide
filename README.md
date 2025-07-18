@@ -58,8 +58,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=galatoide&theme=nord&custom_title=Contributions&radius=10" height="150" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/galatoide/galatoide/output/snake.svg" alt="Snake animation" />
-
-###
