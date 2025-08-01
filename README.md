@@ -48,10 +48,9 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=galatoide&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=galatoide&theme=nord)
 
 <div style="display:flex; gap:20px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=galatoide&layout=compact" alt="Harlok's WakaTime stats" width="800"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=galatoide&layout=compact" alt="Harlok's WakaTime stats" width="800"/>
 </div>
+
